@@ -2,6 +2,10 @@
 
 React UI to manage a movie rental store.
 
+### Live demo
+
+URL: https://netflux-demo.herokuapp.com 
+
 ## Project Setup
 
 ### Install dependencies
