@@ -4,7 +4,7 @@ React UI to manage a movie rental store.
 
 ### Live demo
 
-URL: https://netflux-demo.herokuapp.com 
+URL: https://netflux-demo.herokuapp.com
 
 ## Project Setup
 
@@ -14,4 +14,4 @@ Run "npm install" command.
 
 ### Serve application
 
-Run "npm start" to serve the application with the URL: http://localhost:3000/
+Run "npm run dev" to serve the application with the URL: http://localhost:3000/
